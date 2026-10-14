@@ -1,0 +1,5 @@
+# ZIP 으로 받아도 Windows 줄바꿈 유지 (cmd 는 LF 만 있으면 오동작할 수 있음)
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+*.json text eol=crlf
+*.md text eol=crlf

@@ -1,0 +1,6 @@
+# 점검 결과 - 파일 경로와 마스킹된 키 일부가 들어 있음
+reports/
+# PC마다 다른 시스템 파일 해시 기준선
+baseline/
+# STIG·CCI 원본 XML (용량이 커서 제외, README 의 "기준 데이터 갱신" 참고)
+src/*.xml
